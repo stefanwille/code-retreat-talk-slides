@@ -1,0 +1,62 @@
+
+
+# Slide 1
+
+The Code Retreat
+
+# Slide 2 - Definition
+
+Code Retreat: A 1 day exercise for improving software developers skills. Away from the job, from the pressure of getting things done. Only about honing our craft.
+
+
+# Slide 3 - My relationship with Code Retreat
+
+Attended code retreat at wooga, 1 week ago
+
+expected to try many environments, like prog. languages, frameworks, ides
+
+Instead: Practicing TDD and Pair Programming
+
+Bild
+https://pbs.twimg.com/media/CIBPfqCWoAEDf0W.jpg:large
+
+
+# Slide 4 - How does it work
+
+  Work in Pairs
+  with TDD
+  Work on 1 problem all the time,
+
+Structure:
+  6 sessions
+  45 minutes each
+  delete the code after session
+  Retrospective reflect on what happened.
+  Each session gets a new twist, a new working style.
+
+Exercise is Game of Life
+
+# Slide 5 - My Experience
+
+My experience:
+  - Haven't learned about TDD (because already very experienced)
+  - Practised with JavaScript/Mocha
+  - Learned 3 tricks for pair programming (change role after each step, mentor-mentee, task list)
+  - Tried Tandoori style kata
+  - Got to peek at Haskell
+
+# Slide 6 - More Info Available
+
+This is described on http://coderetreat.org/
+
+Hope to organize one at the next Hackership - maybe you can come too!
+
+
+
+
+
+
+
+
+
+
